@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me:
 
-- 🔭 I’m a curious `Frontend Developer` from India, working at Cognizant.
+- 🔭 I’m a curious `Frontend Developer` from India, working at Analog Devices.
 - 🌱 Currently learning _MERN Stack_.
 - ⚡ *<ins>Fun fact</ins>:* In Javascript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
