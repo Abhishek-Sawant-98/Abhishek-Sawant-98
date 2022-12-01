@@ -6,7 +6,6 @@
 - ⚡ *<ins>Fun fact</ins>:* In Javascript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
 <a href="mailto:abhishakesawant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhishakesawant@gmail.com-blue?style=flat-square&logo=gmail"></a>
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Abhishek-Sawant-98/Abhishek-Sawant-98/blob/main/resources/Abhishek_Sawant_Resume.pdf).
 ---
 
 ### 💻 Technologies:
@@ -24,7 +23,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -35,6 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
 </p>
 
 ---
