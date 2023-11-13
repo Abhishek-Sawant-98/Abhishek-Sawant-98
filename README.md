@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me:
 
 - 🔭 I’m a `JavaScript Maniac` from India, working at **[Analog Devices](https://www.analog.com)**.
-- 💡 *My Favourite quote* 👇
+- 💡 My Favourite quote 👇
 >  *"The magic you're looking for, is in the work you avoid."*
 - 🤸‍♀️ My Only hobby: *Calisthenics* (Weighted Pull Ups, Weighted Dips, Pelican Curls, Handstand, L-hang, L-sit etc.)
 - ⚡ *<ins>Fun fact</ins>:* In JavaScript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
