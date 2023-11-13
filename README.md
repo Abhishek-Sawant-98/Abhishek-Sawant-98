@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 &nbsp;My Stats:
+### 📊 &nbsp;My (Okayish) Stats:
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Sawant-98&theme=tokyonight&show_icons=true&hide=["issues"])<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek-Sawant-98&theme=dark&background=000000)](https://git.io/streak-stats)<br>
