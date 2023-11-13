@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me:
 
-- 🔭 I’m a curious `Front End Developer` from India, working at **[Analog Devices](https://www.analog.com)**.
+- 🔭 I’m a curious `Front End Developer` or a `JavaScript Lunatic` from India, working at **[Analog Devices](https://www.analog.com)**.
 - ⚡ *<ins>Fun fact</ins>:* In Javascript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
 <a href="mailto:abhishakesawant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhishakesawant@gmail.com-blue?style=flat-square&logo=gmail"></a>
