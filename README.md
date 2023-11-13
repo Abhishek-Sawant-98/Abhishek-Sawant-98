@@ -1,9 +1,12 @@
-# Hi there👋, I'm Abhishek 😎
+# Hi there 🙋‍♂️, I'm Abhishek 😎
 
 ## 🧑‍💻 About Me:
 
 - 🔭 I’m a `JavaScript Maniac` from India, working at **[Analog Devices](https://www.analog.com)**.
-- ⚡ *<ins>Fun fact</ins>:* In Javascript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
+- 💡 *My Favourite quote* 👇
+>  *"The magic you're looking for, is in the work you avoid."*
+- 🤸‍♀️ My Only hobby: *Calisthenics* (Weighted Pull Ups, Weighted Dips, Pelican Curls, Handstand, L-hang, L-sit etc.)
+- ⚡ *<ins>Fun fact</ins>:* In JavaScript, Event Loop ensures `concurrency` (in single threading), NOT parallelism (in multi-threading).
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
 <a href="mailto:abhishakesawant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhishakesawant@gmail.com-blue?style=flat-square&logo=gmail"></a>
 ---
