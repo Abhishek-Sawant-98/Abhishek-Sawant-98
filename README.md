@@ -5,7 +5,7 @@
 - 🔭 I’m a `JavaScript maniac` from India, working at **[Analog Devices](https://www.analog.com)**.
 - 💡 My Favourite quote 👇
 >  *"The magic you're looking for, is in the work you avoid."*
-- 🤸‍♀️ My Only hobby: *Calisthenics* (Weighted Pull Ups, Weighted Dips, Pelican Curls, Handstand, L-hang, L-sit etc.)
+- ❤ My hobbies: *Badminton*🏸 and *Calisthenics*🤸‍♂️ (Weighted Pull Ups, Weighted Dips, Pelican Curls, Handstand, L-hang, L-sit etc.)
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
 <a href="mailto:abhishakesawant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhishakesawant@gmail.com-blue?style=flat-square&logo=gmail"></a>
 ---
