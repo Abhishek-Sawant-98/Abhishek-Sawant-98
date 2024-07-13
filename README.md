@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me:
 
-- 🔭 I’m a `JavaScript maniac` from India, working at **[Analog Devices](https://www.analog.com)**.
+- 🔭 I’m a `JavaScript maniac` from India, on an eternal journey of exploring the beauty of software engineering.
 - 💡 My Favourite quote 👇
 >  *"The magic you're looking for, is in the work you avoid."*
 - ❤ My hobbies: *Badminton*🏸 and *Calisthenics*🤸‍♂️ (Weighted Pull Ups, Weighted Dips, Pelican Curls, Handstand, L-hang, L-sit etc.)
