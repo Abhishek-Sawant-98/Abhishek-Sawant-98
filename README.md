@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me:
 
-- 🔭 I’m a `JavaScript maniac` on an eternal journey of exploring the beauty of software engineering.
+- 🔭 I’m a `JavaScript enthusiast` on an eternal journey of exploring the beauty of software engineering.
 - 💡 My Favourite quote 👇
 >  *"The magic you're looking for, is in the work you avoid."*
 - ❤ My hobbies: *Badminton*🏸 and *Calisthenics*🤸‍♂️ (Pull Ups, Dips, Pelican Curls, Handstand etc.)
