@@ -4,7 +4,7 @@
 
 - 🔭 I’m a `JavaScript enthusiast` on an eternal journey of exploring the beauty of software engineering.
 - 💡 My Favourite quote 👇
->  *"The magic you're looking for, is in the work you avoid."*
+>  *"Happiness can be found, even in the Darkest of times, if one only remembers to turn on the Light ✨️"*
 - ❤ My hobbies: *Badminton*🏸 and *Calisthenics*🤸‍♂️ (Pull Ups, Dips, Pelican Curls, Handstand etc.)
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/iamabhisheksawant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawant-blue?style=flat-square&logo=linkedin"></a>&nbsp;
 <a href="mailto:abhishakesawant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhishakesawant@gmail.com-blue?style=flat-square&logo=gmail"></a>
